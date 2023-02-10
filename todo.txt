@@ -1,0 +1,21 @@
+einiges
+
+-- beats on three levels only, makes it easier to dodge
+
+-- collect x things (mixed into the beats like the hearts)
+
+-- best zeiten zu den beats, verschiedene beats verschiedene level
+
+-- try to catch exactly (x kicks)
+
+-- animations for dancer
+
+-- not always spawn flying beat -> increase as it gets more difficult
+
+
+TODO FOR TOMORROW
+- ANIMATIONS FOR DANCER
+
+TODO
+Looses two liFES AT ONCE
+anchor canvas hearts
